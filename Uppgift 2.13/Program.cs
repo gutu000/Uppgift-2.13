@@ -20,6 +20,7 @@ namespace Uppgift_2._13
             int medellön = Person1 + Person2 + Person3 / 3;
             Console.Write("Medellönen blir ");
             Console.WriteLine(medellön);
+            //hej
 
 
 
