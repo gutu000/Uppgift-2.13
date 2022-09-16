@@ -17,10 +17,10 @@ namespace Uppgift_2._13
             Console.WriteLine("Lön summa 3");
             string tre = Console.ReadLine();
             int Person3 = Convert.ToInt32(tre);
-            int medellön = Person1 + Person2 + Person3 / 3;
+            int medellön = ((Person1 + Person2 + Person3) / 3);
             Console.Write("Medellönen blir ");
             Console.WriteLine(medellön);
-            //hej
+            //h
 
 
 
